@@ -3,3 +3,8 @@ body {
   height: 100%;
   margin: 0;
 }
+
+/* align header to center */
+header {
+  text-align: center;
+}
