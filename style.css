@@ -22,3 +22,9 @@ nav a {
   /* change their background color */
   background-color: grey;
 }
+
+/* center and shrink figcaption text */
+figcaption {
+  text-align: center;
+  font-size: smaller;
+}
