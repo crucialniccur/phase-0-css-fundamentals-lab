@@ -32,4 +32,5 @@ figcaption {
 /* the featured property p's width to 900px */
 #featured-property > p {
   width: 900px;
+  padding: 5px;
 }
