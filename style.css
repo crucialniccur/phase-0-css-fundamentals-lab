@@ -44,3 +44,7 @@ figcaption {
   background-color: aqua;
   text-align: center;
 }
+
+#details > div {
+  width: 45%;
+}
