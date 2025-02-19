@@ -33,6 +33,10 @@ figcaption {
 #featured-property > p {
   width: 900px;
   padding: 5px;
+  text-align: center;
+
+  /* make the content of p centered */
+  margin: auto;
 }
 
 /* making the details div float horizontally to the left */
