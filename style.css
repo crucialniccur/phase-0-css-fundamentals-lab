@@ -28,3 +28,8 @@ figcaption {
   text-align: center;
   font-size: smaller;
 }
+
+/* the featured property p's width to 900px */
+#featured-property > p {
+  width: 900px;
+}
