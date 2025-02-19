@@ -34,3 +34,9 @@ figcaption {
   width: 900px;
   padding: 5px;
 }
+
+/* making the details div float horizontally to the left */
+#details {
+  display: flex;
+  gap: 2rem;
+}
