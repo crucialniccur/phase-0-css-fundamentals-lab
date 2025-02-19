@@ -39,4 +39,8 @@ figcaption {
 #details {
   display: flex;
   gap: 2rem;
+
+  /* style the divs  */
+  background-color: aqua;
+  text-align: center;
 }
