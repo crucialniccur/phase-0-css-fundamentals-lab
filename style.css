@@ -8,3 +8,9 @@ body {
 header {
   text-align: center;
 }
+
+/* centering the image */
+img {
+  display: block;
+  margin: auto;
+}
